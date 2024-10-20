@@ -49,7 +49,7 @@ driver=org.postgresql.Driver
 
  **Step 1: Clone the Repository**
   ```bash
-git clone https://gitlab.com/Grgeorgia/imdb_data_scraper
+git clone https://github.com/Grgeorgia/imdb_data_scraper
   ```
  **Step 2: Configure Database**
    ```bash
